@@ -396,3 +396,14 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+.vs/Second_Project/v17/.suo
+.vs/Second_Project/v17/DocumentLayout.json
+Second_Project/obj/Debug/net8.0/Second_Project.AssemblyInfo.cs
+Second_Project/obj/Debug/net8.0/Second_Project.AssemblyInfoInputs.cache
+Second_Project/obj/Debug/net8.0/Second_Project.assets.cache
+Second_Project/obj/Debug/net8.0/Second_Project.GeneratedMSBuildEditorConfig.editorconfig
+Second_Project/obj/project.assets.json
+Second_Project/obj/project.nuget.cache
+Second_Project/obj/Second_Project.csproj.nuget.dgspec.json
+Second_Project/obj/Second_Project.csproj.nuget.g.props
+Second_Project/Second_Project.csproj.user
